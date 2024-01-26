@@ -66,3 +66,7 @@ git merge
 ```sh
 git push origin main
 ```
+* Запускает приложение
+```sh
+dotnet run
+```
