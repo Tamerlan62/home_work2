@@ -61,3 +61,8 @@ git log --oneline --graph
 ```sh
 git merge
 ```
+
+* Используется для отправки изменений **main** с локального в удаленное репозиторию
+```sh
+git push origin main
+```
