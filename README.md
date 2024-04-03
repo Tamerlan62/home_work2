@@ -67,4 +67,3 @@ git merge
 git push origin main
 ```
 
-salam
